@@ -1,1 +1,1 @@
-# EM-Algor-on-Joined-Distribution
+# EM-Algo-on-Joined-Distribution
